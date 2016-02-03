@@ -1,3 +1,5 @@
+'use strict';
+
 // NOTE: run this test independently as
 // npm test test/lib/container.js
 
